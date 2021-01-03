@@ -342,7 +342,7 @@ async def on_command_error(ctx, error):
 async def bot_info(ctx):
     embed = discord.Embed(
         title = '__Info__',
-        description = "**[Invite](https://discord.com/api/oauth2/authorize?client_id=790592850588336151&permissions=8&scope=bot)**\n\n **[Bot's Source Code](https://repl.it/@MrCoderCodes/hello-there-bot#main.py)**\n\n **Btw I was Created On *21/12/2020***",
+        description = "**[Invite](https://discord.com/api/oauth2/authorize?client_id=790592850588336151&permissions=8&scope=bot)**\n\n **[Bot's Source Code](https://github.com/DHRUV-CODER/Discord-Bot)**\n\n **Btw I was Created On *21/12/2020***",
         colour = discord.Colour.gold()
     )
     await ctx.send(embed=embed)   
