@@ -4,7 +4,7 @@ This Project  Was Made In Short Time As a Challenge , with Basic Needs Like  Mod
 
 ## Getting Started
 
-You Are Free To Free To Clone The Repo With Prior Perms Of Owner , [CONTACTS:-](https://discord.gg/j2NeBaCWYy)
+You Are Free To Free To Clone The Repo With Prior Perms Of Owner , [CONTACTS](https://discord.gg/j2NeBaCWYy)
 
 ### Prerequisites
 
