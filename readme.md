@@ -4,12 +4,12 @@ This Project  Was Made In Short Time As a Challenge , with Basic Needs Like  Mod
 
 ## Getting Started
 
-You Are Free To Free To Clone The Repo With Prior Perms OF Owner
+You Are Free To Free To Clone The Repo With Prior Perms Of Owner , Contact * [contacts](https://discord.gg/j2NeBaCWYy)
 
 ### Prerequisites
 
  PYTHON
- IDE - SUGGESTED
+ IDE - SUGGESTED ,
  DISCORD APP - SUGGESTED WEB VERSION ALSO CAN BE USED
 
 
@@ -21,22 +21,23 @@ EXTRACT THAT FILE ON DEKSTOP (SUGGESTED).
 MAKE [.ENV] FILE AND PASTE THE REQUIRED BOT TOKEN , UR REDDIT BOT ACCOUNT
 I WILL GIVE YOU FILE FOR REQUIREMENTS.TXT SO YOU CAN DOWNLOAD THEM.
 * [REQUIREMENTS](https://github.com/DHRUV-CODER/Discord-Bot/blob/main/requirements.txt)
-* [MAIN.PY](https://github.com/DHRUV-CODER/Discord-Bot/blob/main/main.py) - THE MAIN FILE
+* [MAIN.PY](https://github.com/DHRUV-CODER/Discord-Bot/blob/main/main.py) 
 
 ## Running the tests
-OPEN THE FOLDER WITH YOU PREFERRED IDE , SUGGESTED - VS CODE
+OPEN THE FOLDER WITH YOU PREFERRED IDE ,
+SUGGESTED - VS CODE
 AND RUN THE MAIN.PY AFTER PUTTING YOUR BOT TOKEN
 
 
 ## Deployment
 
 CAN BE DEPLOYED ON GITHUB .
-* [STEPS](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008) - FOLLOW THE CORRECT STEPS
+* [STEPS](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008)
 
 
 ## Built With
 
-* [PYTHON DOC](https://discordpy.readthedocs.io/en/latest/) - Documentation
+* [PYTHON DOC](https://discordpy.readthedocs.io/en/latest/)
 
 
 
@@ -51,6 +52,6 @@ CAN BE DEPLOYED ON GITHUB .
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-##Any Question Or Doubts Answered At:-
-* [Bot Support](https://discord.gg/j2NeBaCWYy) - 24/7 Help
+## Any Question Or Doubts Answered At:-
+* [Bot Support](https://discord.gg/j2NeBaCWYy)
 
