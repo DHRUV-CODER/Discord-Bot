@@ -50,7 +50,7 @@ CAN BE DEPLOYED ON GITHUB .
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/DHRUV-CODER/Discord-Bot/blob/main/LICENSE)file for details
 
 ## Any Question Or Doubts Answered At:-
 * [Bot Support](https://discord.gg/j2NeBaCWYy)
