@@ -31,7 +31,7 @@ AND RUN THE MAIN.PY AFTER PUTTING YOUR BOT TOKEN
 
 ## Deployment
 
-CAN BE DEPLOYED ON GITHUB .
+CAN BE DEPLOYED ON REPL.IT (24/7) .
 * [STEPS](https://repl.it/talk/learn/Hosting-discordpy-bots-with-replit/11008)
 
 
