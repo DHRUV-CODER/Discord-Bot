@@ -1,3 +1,6 @@
+### Old Pls check new repo for changes
+
+
 # Discord Bot
 
 This Project  Was Made In Short Time As a Challenge , with Basic Needs Like  Moderation and Fun Commands
